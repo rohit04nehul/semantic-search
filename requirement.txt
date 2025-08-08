@@ -1,0 +1,4 @@
+fastapi
+pydantic
+spacy
+scikit-learn
